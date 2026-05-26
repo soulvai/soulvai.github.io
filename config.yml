@@ -19,7 +19,7 @@ menu:
     - name: Replications
       url: /categories/replications/
       weight: 2
-    - name: Hands_on
+    - name: Hands on
       url: /categories/hands_on/
       weight: 3
     - name: Unfiltered
