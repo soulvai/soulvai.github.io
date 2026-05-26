@@ -6,9 +6,9 @@ params:
   defaultTheme: auto # This creates the sun/moon toggle at the top!
   ShowReadingTime: true
   ShowShareButtons: true
-homeInfoParams:
-    Title: "👋 Welcome to The Heat Sink"
-    Content: "Hi, I'm Roman. Just as a heat sink dissipates concentrated thermal loads, I use this notebook to break down dense academic literature into clear, actionable insights for my future reference. I document the papers I read, replicate complex thermal models from scratch, log the practical engineering skills I pick up, and share the unfiltered reality of my journey."
+  homeInfoParams:
+      Title: "👋 Welcome to The Heat Sink"
+      Content: "Hi, I'm Roman. Just as a heat sink dissipates concentrated thermal loads, I use this notebook to break down dense academic literature into clear, actionable insights for my future reference. I document the papers I read, replicate complex thermal models from scratch, log the practical engineering skills I pick up, and share the unfiltered reality of my journey."
 
 
 menu:
