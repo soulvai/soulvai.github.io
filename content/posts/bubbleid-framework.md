@@ -8,8 +8,6 @@ math: true
 showToc: true
 TocOpen: false
 ---
-# **BubbleID: A Deep Learning Framework for Bubble Interface Dynamics Analysis** 
-
 Paper link: *https://pubs.aip.org/aip/jap/article/136/1/014902/3300686/BubbleID-A-deep-learning-framework-for-bubble* 
 
 Replication status: *In progress* 
