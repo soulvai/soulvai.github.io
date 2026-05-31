@@ -1,6 +1,6 @@
 ---
 title: "BubbleID: A Deep Learning Framework for Bubble Interface Dynamics Analysis"
-date: 2026-06-01T10:00:00+06:00
+date: 2026-06-01T1:00:00+06:00
 draft: false
 categories: ["reading"]
 tags: ["Deep Learning", "Phase Change", "Heat Transfer"]
